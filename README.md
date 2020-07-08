@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 💬 Ask me about burning man, partner acrobatics, machine learning, e-commerce, project management
+- 😄 Pronouns: he, his
 
 <!--
 **filchyboy/filchyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
