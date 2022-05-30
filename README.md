@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 💬 Ask me about burning man, partner acrobatics, machine learning, e-commerce, project management
+- 💬 Ask me about product management & design, machine learning, e-commerce, project management, reproductive health initiatives, community building, monumental sculpture, burning man, partner acrobatics
+- 🔭 I’m currently working on building a hub and spoke ecommerce platform for the largest condom company in the world, leading a small game design company in stealth mode, standing up a 501c3 org within the reproductive health space, and building the best playground in the world!
 - 😄 Pronouns: he, his
 
 <!--
